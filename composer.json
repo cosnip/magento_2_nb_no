@@ -5,6 +5,7 @@
   "license": [
     "MIT"
   ],
+  "minimum-stability": "dev",
   "require": {
     "magento/framework": "100.0.*"
   },
