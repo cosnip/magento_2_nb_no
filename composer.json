@@ -1,14 +1,12 @@
 {
   "name": "cosnip/nb_no",
   "description": "Magento 2 Norwegian Language Pack nb_NO",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": [
     "MIT"
   ],
-  "minimum-stability": "dev",
   "require": {
-    "magento/framework": "100.0.*",
-    "composer/composer": "@alpha"
+    "magento/framework": "100.0.*"
   },
   "type": "magento2-language",
   "autoload": {
